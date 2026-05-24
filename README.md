@@ -42,6 +42,6 @@ The program reads text from a file, processes each token individually using the 
    - Quit
 5. Enter the file name when prompted.
 
-Example:
-```txt
-Enter encryption/decryption key: KEY
+Program output screenshot:
+
+![Program Output](Screenshots/pointers-ss.png)
