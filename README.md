@@ -44,4 +44,4 @@ The program reads text from a file, processes each token individually using the 
 
 Program output screenshot:
 
-![Program Output](Screenshots/pointers-ss.png)
+![Program Output](screenshots/pointers-ss.png)
